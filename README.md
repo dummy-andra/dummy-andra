@@ -9,7 +9,7 @@
 <br/>
 
 > - 🌱 I’m currently learning Go
-> - 👯 I’m open to collaborate B2B as a freelancer 
+> - 👯 I collaborate B2B as a freelancer 
 
 <br/>
 <br/>
