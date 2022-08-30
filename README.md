@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dummy-andra/dummy-andra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I am a DevOps Engineer with main expertise on Microsoft Azure Architecture and Services like AKS, ACR, ACI, Azure Container Apps, Azure RedHat OpenShift (ARO)
+
+- 🌱 I’m currently learning Go
+- 👯 I’m open to collaborate B2B as a freelancer 
+
+
+
+📝 Articles I wrote on medium and dev.to
+https://medium.com/@andragabr
+https://dev.to/dummyandra
+
+
+📫 If you want to connect, reach out on [LinkedIn](https://www.linkedin.com/in/raduandra/). 
+💣 Extended CV: https://dummy-andra.github.io/andraradu.github.io/
