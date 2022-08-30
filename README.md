@@ -23,5 +23,5 @@
 <br/>
 
 
-- 📫 If you want to connect, reach out on [LinkedIn](https://www.linkedin.com/in/raduandra/).
-- 💣 Extended CV: https://dummy-andra.github.io/andraradu.github.io/
+📫 If you want to connect, reach out on [LinkedIn](https://www.linkedin.com/in/raduandra/).
+💣 Extended CV: https://dummy-andra.github.io/andraradu.github.io/
