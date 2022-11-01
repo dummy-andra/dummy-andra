@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-
+<br>
+<br>
 I provide **engineering expertise** and dedicated time on issues as load balancing, networking, compute and storage, monitoring, containers & microservices, security in order to implement and setup infrastructures **OnPrem** in Datacenter or on **Cloud Environments** with a main focus on **K8s** or **OpenShift** Clusters (prod and non-prod) and Kubernetes satelite services.
 
 
@@ -18,7 +19,8 @@ I provide **engineering expertise** and dedicated time on issues as load balanci
 
 ### 🏢 Colaboration
 
-- Curently only B2B colaborations.
+- Curently only B2B fully remote colaborations.
+- ✈️ Not available for Relocation.
 
 
 ### Would you like to **meet me**? 
