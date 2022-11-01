@@ -6,6 +6,9 @@
 
 I provide **engineering expertise** and dedicated time on issues as load balancing, networking, compute and storage, monitoring, containers & microservices, security in order to implement and setup infrastructures **OnPrem** in Datacenter or on **Cloud Environments** with a main focus on **K8s** or **OpenShift** Clusters (prod and non-prod) and Kubernetes satelite services.
 
+<br />
+<br />
+
 
 ### 👨‍💻 **Main technologies I curently use?**
  
@@ -16,13 +19,19 @@ I provide **engineering expertise** and dedicated time on issues as load balanci
     - Server OS: Linux, Windoes
     - Scripting: bash, powershell, python
     - Containers and orchestration: Docker, K8s [focus on AKS], Openshift [focus on ARO] + satelite services as registry, storage ...
-    
+  
+<br />
+<br />
+
 
 ### 🏢 Colaboration
 
 - Curently only B2B fully remote colaborations.
 - ✈️ Not available for Relocation.
 
+
+<br />
+<br />
 
 ### Would you like to **meet me**? 
 
