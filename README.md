@@ -19,6 +19,7 @@ I provide **engineering expertise** and dedicated time on issues as load balanci
     - Server OS: Linux, Windoes
     - Scripting: bash, powershell, python
     - Containers and orchestration: Docker, K8s [focus on AKS], Openshift [focus on ARO] + satelite services as registry, storage ...
+    - CI/CD: Github, Azure DevOps
   
 <br />
 <br />
