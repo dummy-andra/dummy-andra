@@ -37,8 +37,21 @@ I provide **engineering expertise** and dedicated time on issues as load balanci
 ### Would you like to **meet me**? 
 
 **You can always reach out on [LinkedIn](https://www.linkedin.com/in/raduandra/)**
-💣 Extended CV: https://dummy-andra.github.io/andraradu.github.io/
 
-📝 Articles I wrote on medium and dev.to
-- https://medium.com/@andragabr
-- https://dev.to/dummyandra
+Stack Overflow: 🌐💡👩‍💻📚
+URL: https://meta.stackoverflow.com/users/13000225/andra-radu
+
+Medium: ✍️📰🔗
+URL: https://medium.com/@andragabr
+
+GitHub (dummy-andra): 🐙👩‍💻📦
+URL: https://github.com/dummy-andra
+
+GitHub (KekkeiGenkaiCloud): 🐙👩‍💻☁️
+URL: https://github.com/KekkeiGenkaiCloud
+
+Personal Website: 🌐👩‍💻📝
+URL: https://dummy-andra.github.io/andraradu.github.io/
+
+UiPath Forum: 🤖💬🔧
+URL: https://forum.uipath.com/t/uipath-identity-server-url-you-do-not-have-permission-to-view-this-directory-or-page/416295
